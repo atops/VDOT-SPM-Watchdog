@@ -1,0 +1,63 @@
+
+/*** UI styles ***/
+
+@font-face {  
+  font-family: "Open Sans";
+  src: url(OpenSans-Regular.ttf);
+}
+@font-face {  
+  font-family: "Open Sans";
+  font-weight: bold;
+  src: url(OpenSans-Bold.ttf);
+}
+label {
+	font-family: "Open Sans";
+	font-weight: bold;
+}
+body {
+  font-family: 'Open Sans';
+  font-size: 12px;
+}
+
+.form-control {
+  font-size: 12px;
+}
+.datepicker-days {
+  font-size: 12px;
+}
+.input-daterange {
+  font-size: 12px;
+}
+
+/*img {
+  vertical-align: middle;
+  line-height: 48px;
+}*/
+h2 {
+  font-family: 'Open Sans';
+  font-weight: bold;
+  padding-top: 5px;
+  padding-left: 5px;
+  height: 60px;
+  font-size: 20px;
+  color: #fff;
+  background-color: #256194;
+}
+
+.tabbable {
+  margin-left: 20px;  
+}
+
+.help-block {
+  
+}
+
+.form-group {
+    margin-bottom: 5px;
+}
+
+.checkbox {
+    margin-top: 1px;
+    margin-bottom: 1px;
+}
+
